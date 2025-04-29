@@ -21,7 +21,9 @@ docker run -p 8888:8888 mkhn15/finalproject_nba2021
 ```
 
 When the container starts, it will print a URL in the terminal that looks like this:
-**http://127.0.0.1:8888/?token=your_token_here**
+```
+http://127.0.0.1:8888/?token=your_token_here
+```
 
 Copy and paste that URL into your web browser to open the Jupyter interface.
 
