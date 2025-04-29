@@ -23,6 +23,10 @@ http://127.0.0.1:8888/?token=your_token_here
 
 Copy and paste that URL into your web browser to open the Jupyter interface.
 
+
+
+
+
 Alternative: Build the Docker Image Locally
 
 If you prefer to build the image yourself from the source:
