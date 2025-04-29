@@ -5,7 +5,9 @@ This is the **fastest and easiest** way to run the project using a prebuilt Dock
 Prerequisites:
 Before you begin, make sure you have:
 - [Docker installed](https://www.docker.com/products/docker-desktop)
+  and logged in
 - Internet access
+
 
 1. Clone the GitHub Repository
 Open a terminal and run:
