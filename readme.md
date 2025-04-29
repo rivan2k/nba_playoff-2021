@@ -1,4 +1,4 @@
-NBA Playoff Analysis 2021 - Final Project
+## NBA Playoff Analysis 2021 - Final Project
 
 Prerequisites:
 Before you begin, make sure you have:
