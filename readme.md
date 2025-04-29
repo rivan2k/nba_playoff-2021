@@ -8,9 +8,10 @@ Before you begin, make sure you have:
 1. Clone the GitHub Repository
 Open a terminal and run:
 git clone https://github.com/rivan2k/nba_playoff-2021.git
+
 cd nba_playoff-2021
 
-2. Pull and Run the Docker Image from DockerHub:
+3. Pull and Run the Docker Image from DockerHub:
 docker pull mkhn15/finalproject_nba2021
 
 Then run the container (this opens Jupyter Notebook):
