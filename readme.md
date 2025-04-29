@@ -1,6 +1,6 @@
 ## NBA Playoff Analysis 2021 - Final Project
 
-Prerequisites:
+**Prerequisites:**
 Before you begin, make sure you have:
 - [Docker installed](https://www.docker.com/products/docker-desktop)
 
@@ -25,7 +25,7 @@ Copy and paste that URL into your web browser to open the Jupyter interface.
 
 
 
-Alternative: Build the Docker Image Locally
+**Alternative:** Build the Docker Image Locally
 
 If you prefer to build the image yourself from the source:
 
