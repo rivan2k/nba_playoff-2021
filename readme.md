@@ -6,6 +6,7 @@
 
 1. Clone the GitHub Repository
 Open a terminal and run:
+
 git clone https://github.com/rivan2k/nba_playoff-2021.git
 
 cd nba_playoff-2021
